@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-31T07:15:12.717Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pwCXLnohlrjxS5Rb0-Vd" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-31T07:54:20.243Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="5aZuTiBxuwdfHb6E_CDC" version="14.5.3" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1883" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" background="#ffffff" math="0" shadow="0">
       <root>
@@ -230,6 +230,48 @@
         </mxCell>
         <mxCell id="kRNZHN7drbjfJBb1vjVe-38" value="安全框架" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kRNZHN7drbjfJBb1vjVe-37">
           <mxGeometry x="0.9149" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-39" value="velocity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-40" value="" style="endArrow=classic;html=1;strokeColor=#b3b3b3;exitX=0.953;exitY=0.325;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.075;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1ea317790d2ca983-1" target="kRNZHN7drbjfJBb1vjVe-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="640" as="sourcePoint" />
+            <mxPoint x="190" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-41" value="视图展现技术&lt;br&gt;前后端分离" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kRNZHN7drbjfJBb1vjVe-40">
+          <mxGeometry x="0.7468" y="2" relative="1" as="geometry">
+            <mxPoint x="91.86" y="-52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-42" value="JNA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-44" value="" style="endArrow=classic;html=1;strokeColor=#b3b3b3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ea317790d2ca983-1" target="kRNZHN7drbjfJBb1vjVe-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="940" as="sourcePoint" />
+            <mxPoint x="380" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-46" value="Java Native Access&lt;br&gt;用于运行期动态访问系统本地库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kRNZHN7drbjfJBb1vjVe-44">
+          <mxGeometry x="0.8525" y="-1" relative="1" as="geometry">
+            <mxPoint x="105.22" y="-30.439999999999998" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-47" value="oshi-core" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-48" value="" style="endArrow=classic;html=1;strokeColor=#b3b3b3;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1ea317790d2ca983-1" target="kRNZHN7drbjfJBb1vjVe-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="1090" as="sourcePoint" />
+            <mxPoint x="-200" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kRNZHN7drbjfJBb1vjVe-49" value="获取系统信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kRNZHN7drbjfJBb1vjVe-48">
+          <mxGeometry x="0.9066" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
