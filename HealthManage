@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T16:29:05.024Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="D5N4X_CeBkKxtOT94vdc" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T16:43:21.438Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="nPBy4-5vWK_2yXRYzqxs" version="14.6.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2198" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2930" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,15 @@
         </mxCell>
         <mxCell id="1391" value="群发消息" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1410" y="1081.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FhKQPJg38DPwB7wgRFsC-1556" value="密码修改" style="rounded=1;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FhKQPJg38DPwB7wgRFsC-1557" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;html=1;strokeColor=#0000FF;" edge="1" parent="1" source="1356" target="FhKQPJg38DPwB7wgRFsC-1556">
+          <mxGeometry x="198.5" y="61.5" width="100" height="100" as="geometry">
+            <mxPoint x="684.2719506119961" y="1263.6244101601305" as="sourcePoint" />
+            <mxPoint x="749.9270072992701" y="1290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
