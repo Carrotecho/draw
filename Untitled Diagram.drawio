@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T11:11:09.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.5" etag="0_bDHgpXTMWyv-WcZ7c9" type="github"><diagram id="4GHwNbhPT8ErfyqbCuGE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-28T11:54:17.964Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="4gDqfy9rgCJkl9iH6FTL" version="15.3.5" type="github">
+  <diagram id="4GHwNbhPT8ErfyqbCuGE" name="Page-1">
+    <mxGraphModel dx="2177" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mptvfy9NmQ3UMROiCA39-2" value="订单系统" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-3" value="报表系统" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-4" value="账户系统" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="980" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-5" value="会员系统" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="820" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-6" value="商品系统" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-7" value="支付系统" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-8" value="对接管家婆" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-9" value="商城" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-11" value="VIP 会员" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-12" value="积分" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-13" value="优惠券" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-14" value="图表展示" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-15" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-16" value="打印输出" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-17" value="商品出入库" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-18" value="地址" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-19" value="对账单" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-20" value="商品维护" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-21" value="充值" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-22" value="UI 设计" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-23" value="打折" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-24" value="秒杀" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-25" value="订单管理跟踪" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-26" value="短信推送" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-27" value="库存预警" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-28" value="客户管理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-29" value="配送管理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-30" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-31" value="排行榜管理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-32" value="商品导购" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-33" value="商品推荐" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-34" value="团购管理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-35" value="销售单对接" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mptvfy9NmQ3UMROiCA39-38" value="&lt;font style=&quot;font-size: 37px&quot;&gt;小程序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="35" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
